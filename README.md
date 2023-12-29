@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **chintamanipala67@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/u/0/d/1tJmtlzIEmOxmzlZXaXcVHSv9LacXRZ52/view?usp=sharing&pli=1](https://drive.google.com/file/u/0/d/1tJmtlzIEmOxmzlZXaXcVHSv9LacXRZ52/view?usp=sharing&pli=1)
+- 📄 Know about my experiences [https://drive.google.com/file/u/0/d/1tJmtlzIEmOxmzlZXaXcVHSv9LacXRZ52/view?usp=sharing&pli=1](https://drive.google.com/file/d/19g7RAfRVdc-nsACOOalMPOiRXCBbHD66/view?usp=sharing)
 
 - ⚡ Fun fact **Once I learn something, it's stuck in my brain for good! It's like my mind has its own permanent storage for new skills and information**
 
