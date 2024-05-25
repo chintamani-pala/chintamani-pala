@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Learning Management System**
 
-- 🌱 I’m currently learning **TypeScript,React js,Flask**
+- 🌱 I’m currently learning **TypeScript,React js**
 
 - 👨‍💻 All of my projects are available at [https://chintamanipala.me](https://chintamanipala.me)
 
