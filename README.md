@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chintamani pala</h1>
 <h3 align="center">Bridging front-end finesse with back-end power 🌐⚡</h3>
 
-<img align="right" alt="coding gif" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<img align="right" alt="coding gif" width="400" src="https://raw.githubusercontent.com/chintamani-pala/chintamani-pala/main/gif/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chintamani-pala&label=Profile%20views&color=0e75b6&style=flat" alt="chintamani-pala" /> </p>
 
