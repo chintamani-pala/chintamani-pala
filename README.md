@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript,React js**
 
-- 👨‍💻 All of my projects are available at [https://chintamanipala.me](https://chintamanipala.me)
+- 👨‍💻 All of my projects are available at [https://chintamanipala.in](https://chintamanipala.in)
 
 - 📝 I regularly write articles on [https://hashnode.com/@chintamanipala](https://hashnode.com/@chintamanipala)
 
