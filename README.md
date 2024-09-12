@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@chintamanipala](https://hashnode.com/@chintamanipala)
 
-- 💬 Ask me about **Html,Css,JS,MySQL,MongoDB,Express JS,Node JS,JAVA programming,Python Programming**
+- 💬 Ask me about **Html,Css,JS,MySQL,MongoDB,Express JS,ReactJS,Node JS,JAVA programming,Python Programming**
 
 - 📫 How to reach me **chintamanipala67@gmail.com**
 
