@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS, RAG (Retrieval-Augmented Generation), LangGraph, AI tools**
 
-- 👨‍💻 All of my projects are available at [https://chintamanipala.in](https://chintamanipala.in)
+- 👨‍💻 All of my projects are available at [chintamanipala](https://chintamani.vercel.app)
 
 <!-- - 📝 I regularly write articles on [https://hashnode.com/@chintamanipala](https://hashnode.com/@chintamanipala) -->
 
