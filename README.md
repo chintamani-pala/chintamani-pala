@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **YouTube Video Chatbot & Chrome Extensions**
 
-- 🌱 I’m currently learning **NextJS, RAG (Retrieval-Augmented Generation), LangChain, AI tools**
+- 🌱 I’m currently learning **NextJS, RAG (Retrieval-Augmented Generation), LangGraph, AI tools**
 
 - 👨‍💻 All of my projects are available at [https://chintamanipala.in](https://chintamanipala.in)
 
 <!-- - 📝 I regularly write articles on [https://hashnode.com/@chintamanipala](https://hashnode.com/@chintamanipala) -->
 
-- 💬 Ask me about **React.js, Next.js, Express.js, ConvexDB, Node.js, MongoDB, Python, Java, UI design, Langchain, RAG**
+- 💬 Ask me about **React.js, Next.js, Express.js, ConvexDB, Node.js, MongoDB, Python, Java, UI design, Langchain, Langgraph, RAG**
 
 - 📫 How to reach me **chintamanipala67@gmail.com**
 
