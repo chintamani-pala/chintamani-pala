@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chintamani-pala&label=Profile%20views&color=0e75b6&style=flat" alt="chintamani-pala" /> </p>
 
-- 🔭 I’m currently working on **YouTube Video Chatbot & Chrome Extensions**
+- 🔭 I’m currently working on **Building AI Agents Google Agent Development kit and LangGraph**
 
-- 🌱 I’m currently learning **NextJS, RAG (Retrieval-Augmented Generation), LangGraph, AI tools**
+- 🌱 I’m currently learning **NextJS, Google Agent Developement Kit, LangGraph, AI tools**
 
 - 👨‍💻 All of my projects are available at [chintamanipala](https://chintamani.vercel.app)
 
