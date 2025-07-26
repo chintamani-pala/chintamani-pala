@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chintamani-pala&label=Profile%20views&color=0e75b6&style=flat" alt="chintamani-pala" /> </p>
 
-- 🔭 I’m currently working on **Building AI Agents Google Agent Development kit and LangGraph**
+- 🔭 I’m currently working on **Building AI Agents Using Google Agent Development kit and LangGraph**
 
 - 🌱 I’m currently learning **NextJS, Google Agent Developement Kit, LangGraph, AI tools**
 
